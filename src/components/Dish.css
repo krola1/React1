@@ -1,0 +1,18 @@
+@font-face {
+    font-family: lato;
+    src: url(../assets/lato.light.ttf);
+}
+
+.dish {
+    font-family: lato;
+    display: grid;
+    margin: 10vh;
+    padding-top: 6vh;
+    padding-bottom: 10vh;
+    background-color: ghostwhite;
+    gap: 10%;
+    color: darkblue;
+    box-shadow: -5px 5px 5px 5px green;
+    border-radius: 7px;
+    border: 2px solid palevioletred;
+}
